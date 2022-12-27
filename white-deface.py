@@ -10,9 +10,13 @@ except ImportError:
 banner = """
 
 
-░█──░█ ░█─░█ ▀█▀ ▀▀█▀▀ ░█▀▀▀ 　 ░█▀▀▄ ░█▀▀▀ ░█▀▀▀ ─█▀▀█ ░█▀▀█ ░█▀▀▀ DEVOLOPED BY WHITE EAGLE
-░█░█░█ ░█▀▀█ ░█─ ─░█── ░█▀▀▀ 　 ░█─░█ ░█▀▀▀ ░█▀▀▀ ░█▄▄█ ░█─── ░█▀▀▀ GITHUB   : https://github.com/WH1T3-E4GL3
-░█▄▀▄█ ░█─░█ ▄█▄ ─░█── ░█▄▄▄ 　 ░█▄▄▀ ░█▄▄▄ ░█─── ░█─░█ ░█▄▄█ ░█▄▄▄ TELEGRAM : https://t.me/Ka_KsHi_HaTaKe
+░█──░█ ░█─░█ ▀█▀ ▀▀█▀▀ ░█▀▀▀ 　 ░█▀▀▄ ░█▀▀▀ ░█▀▀▀ ─█▀▀█ ░█▀▀█ ░█▀▀▀ 
+░█░█░█ ░█▀▀█ ░█─ ─░█── ░█▀▀▀ 　 ░█─░█ ░█▀▀▀ ░█▀▀▀ ░█▄▄█ ░█─── ░█▀▀▀ 
+░█▄▀▄█ ░█─░█ ▄█▄ ─░█── ░█▄▄▄ 　 ░█▄▄▀ ░█▄▄▄ ░█─── ░█─░█ ░█▄▄█ ░█▄▄▄ 
+
+DEVOLOPED BY WHITE EAGLE
+GITHUB   : https://github.com/WH1T3-E4GL3
+TELEGRAM : https://t.me/Ka_KsHi_HaTaKe
 """
 
 b = '\033[31m'
