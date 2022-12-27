@@ -7,7 +7,7 @@ try:
 except ImportError:
    exit("install requests and try again ...")
    
-os.sytem("git pull")
+os.system("git pull")
 
 banner = """
 
