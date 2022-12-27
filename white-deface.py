@@ -6,6 +6,8 @@ try:
    import sys
 except ImportError:
    exit("install requests and try again ...")
+   
+os.sytem("git pull")
 
 banner = """
 
