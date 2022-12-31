@@ -16,10 +16,12 @@ banner = """
 ░█░█░█ ░█▀▀█ ░█─ ─░█── ░█▀▀▀ 　 ░█─░█ ░█▀▀▀ ░█▀▀▀ ░█▄▄█ ░█─── ░█▀▀▀ 
 ░█▄▀▄█ ░█─░█ ▄█▄ ─░█── ░█▄▄▄ 　 ░█▄▄▀ ░█▄▄▄ ░█─── ░█─░█ ░█▄▄█ ░█▄▄▄ 
 
-DEVOLOPED BY WHITE EAGLE
-GITHUB   : https://github.com/WH1T3-E4GL3
-TELEGRAM : https://t.me/Ka_KsHi_HaTaKe
 """
+print("================================================================")
+print("\033[32mTool author  : white-eagle\033[0m")
+print("\033[33mGithub       : https://github.com/WH1T3-E4GL3/\033[0m")
+print("\033[33mTelegram     : https://t.me/Ka_KsHi_HaTaKe\033[0m\n")
+print("================================================================")
 
 b = '\033[31m'
 h = '\033[32m'
