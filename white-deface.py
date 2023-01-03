@@ -64,6 +64,7 @@ def main(__bn__):
    while True:
       try:
          print('Please put the deface script in this same folder [white-deface] ')
+         print(' ')
          a = eagle("[+]Enter your deface script's name or it's path [eg: defacescript.html] : ")
          if not os.path.isfile(a):
             print("file '%s' not found"%(a))
