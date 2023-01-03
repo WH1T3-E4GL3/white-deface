@@ -17,9 +17,9 @@ banner = """
 ░█▄▀▄█ ░█─░█ ▄█▄ ─░█── ░█▄▄▄ 　 ░█▄▄▀ ░█▄▄▄ ░█─── ░█─░█ ░█▄▄█ ░█▄▄▄ 
 
 ================================================================
-"\033[32mTool author  : white-eagle\033[0m")
-\033[33mGithub       : https://github.com/WH1T3-E4GL3/\033[0m")
-\033[33mTelegram     : https://t.me/Ka_KsHi_HaTaKe\033[0m\n")
+\033[32mTool author  : white-eagle\033[0m
+\033[33mGithub       : https://github.com/WH1T3-E4GL3/\033[0m
+\033[33mTelegram     : https://t.me/Ka_KsHi_HaTaKe\033[0m\n
 ================================================================
 
 """
