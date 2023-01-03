@@ -25,4 +25,4 @@ Telegram : https://t.me/Ka_KsHi_HaTaKe
 
 screenshort
 
-![WhatsApp Image 2022-12-31 at 15 07 37](https://user-images.githubusercontent.com/118425907/210132055-eda23d2e-78bd-4feb-9368-0a6ec9e3b830.jpg)
+![WhatsApp Image 2023-01-03 at 11 00 23](https://user-images.githubusercontent.com/118425907/210304452-c25c1e37-3d39-4aa0-95d8-4abfa31a1daa.jpg)
