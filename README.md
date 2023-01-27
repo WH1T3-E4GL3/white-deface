@@ -16,7 +16,7 @@ ____________________
     $ cd white-deface
     $ pip install -r requirements.txt
     $ git pull
-    $ python2 white-deface.py
+    $ python white-deface.py
    
   
 Tool used for vulnerable website defacing
