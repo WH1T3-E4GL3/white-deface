@@ -36,3 +36,10 @@ Telegram : https://t.me/Ka_KsHi_HaTaKe
 screenshort
 
 ![WhatsApp Image 2023-01-03 at 11 00 23](https://user-images.githubusercontent.com/118425907/210304452-c25c1e37-3d39-4aa0-95d8-4abfa31a1daa.jpg)
+
+![Screenshot_2022-12-29_05_39_22](https://user-images.githubusercontent.com/118425907/209940420-eadadfb9-fc2d-4b08-83cb-273b9051d4c1.png)
+## Author
+<a href="https://github.com/WH173-E4GL3"><img title="Github" src="https://img.shields.io/badge/WH173-E4GL3-brightgreen?style=for-the-badge&logo=github"></a>
+## Support
+[![Instagram](https://img.shields.io/badge/TELEGRAM-red?style=for-the-badge&logo=telegram)](https://t.me/Ka_KsHi_HaTaKe)
+
