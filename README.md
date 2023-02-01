@@ -10,7 +10,7 @@ It uses WebDav vulnerability to exploit.
 
 You need to put your website urls in the targets.txt file and put your deface script in the same folder ie:white-ddos. then use the tool
 
-# COMMANDS
+# Installation
 ____________________
 
     $ apt update -y && apt upgrade -y
