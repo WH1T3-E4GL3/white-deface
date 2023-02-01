@@ -12,7 +12,7 @@ You need to put your website urls in the targets.txt file and put your deface sc
 
 ## Note
 
-Only defaces websites with WebDAV vulnerability
+⚠️Only defaces websites with WebDAV vulnerability⚠️
 
 # Installation
 ____________________
