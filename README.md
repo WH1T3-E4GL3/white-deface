@@ -11,6 +11,9 @@ This script sends a PUT requests to the websites given in the targets.txt file. 
 
 You need to put your website urls in the targets.txt file and put your deface script in the same folder ie: white-deface. then use the tool
 
+
+Script kiddies and copy pasters step back, I done a lot effort in making this, dnt just copy paste either fork or contobute to this repo.
+
 ## Note
 
 ⚠️Only defaces websites with WebDAV vulnerability(Accepts unauthenticated PUT requests)⚠️
