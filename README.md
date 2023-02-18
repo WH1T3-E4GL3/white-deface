@@ -14,7 +14,7 @@ You need to put your website urls in the targets.txt file and put your deface sc
 
     ⚠️Script kiddies and copy pasters step back, I done a lot effort in making this, dont just copy paste either fork or contobute to this repo.⚠️
 
-## Note
+# Note
 
 ⚠️Only defaces websites with WebDAV vulnerability(Accepts unauthenticated PUT requests)⚠️
 
