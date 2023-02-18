@@ -1,4 +1,15 @@
-#please put your websites here line by line
+#please put your target websites here line by line
 
-http://kobralocks.com/
-http://google.com/
+http://kobralocks.com
+http://georgian.za.net
+https://teltdown.com
+http://stitchaccounting.co.za
+http://happy.mikikk.co.jp
+http://nhsgilde.co.za
+http://atlanticphysio.co.za
+http://systemshouse.co.za
+http://sublimeconfectionery.co.za
+http://www.librogondwana.com.ar
+http://megro.co.za
+http://www.pipelinetape.co.za/
+http://google.com
