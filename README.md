@@ -7,6 +7,7 @@
 This is a simple tool to automatically deface vulnerable websites.
 
 It uses WebDav vulnerability to exploit.
+This script sends a PUT requests to the websites given in the targets.txt file. Unauthenticated requests will be accepted and your html script will be uploaded in the website. You will get the link with your script whch you can see it. (sometimes it defaces the homepage directly.)
 
 You need to put your website urls in the targets.txt file and put your deface script in the same folder ie:white-ddos. then use the tool
 
