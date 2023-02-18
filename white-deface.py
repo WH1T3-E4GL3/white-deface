@@ -50,8 +50,8 @@ banner = f"""
    {color1}⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠷⣾⣷⠞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
    {color1}Tool author  : \033[1mWHITE L'\033[0m
-   {color1}Github       : https://github.com/WH1T3-E4GL3/
    {color1}Telegram     : https://t.me/Ka_KsHi_HaTaKe
+   {color1}Github       : https://github.com/WH1T3-E4GL3/
 
 ︵‿︵‿୨♡୧‿︵‿︵︵‿︵‿୨♡୧‿︵‿︵︵‿︵‿୨♡୧‿︵‿︵︵‿︵‿୨♡୧‿︵‿︵︵‿︵‿୨♡୧‿︵‿︵︵‿︵‿୨♡୧‿︵‿︵
 
