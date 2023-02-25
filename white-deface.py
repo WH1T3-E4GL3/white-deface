@@ -191,7 +191,7 @@ def main(__bn__):
 
       try:
 
-         print(green+'	[Please put the deface script/ .html file in this same folder and type it\'s name below]'+reset+blue)
+         print(green+'[Please put the deface script/ .html file in this same folder and type it\'s name below]'+reset+blue)
 
          print(' ')
 
