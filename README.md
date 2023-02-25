@@ -26,7 +26,7 @@ ____________________
 
     $ apt update -y && apt upgrade -y
     $ pkg install git -y
-    $ pkg install python2 -y
+    $ pkg install python -y
     $ pip2 install requests
     $ git clone https://github.com/WH1T3-E4GL3/white-deface.git
     $ cd white-deface
@@ -38,7 +38,7 @@ ____________________
 # Single installation command
 _______________________________________
 
-    apt update -y && apt upgrade -y && pkg install git -y && pkg install python2 -y && pip2 install requests && git clone https://github.com/WH1T3-E4GL3/white-deface.git && cd white-deface && pip install -r requirements.txt && git pull && python white-deface.py
+    apt update -y && apt upgrade -y && pkg install git -y && pkg install python -y && pip2 install requests && git clone https://github.com/WH1T3-E4GL3/white-deface.git && cd white-deface && pip install -r requirements.txt && git pull && python white-deface.py
   
 Tool used for vulnerable website defacing
 
