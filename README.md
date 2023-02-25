@@ -50,15 +50,19 @@ Telegram : https://t.me/Ka_KsHi_HaTaKe
 
 
 # What the code does
-_____________________
+
 
 The code is a simple program in Python that attempts to upload a provided HTML file to multiple websites as specified in a target file named "targets.txt". The uploaded HTML file is intended to replace the content of the index page on the target websites. The program uses the "requests" library to handle the HTTP requests. The user is asked to input the name or path of the HTML file to be uploaded. If the file is found, the program then reads the contents of the file and the "targets.txt" file, which contains a list of target websites. The program then loops through each website in the list and attempts to upload the HTML file using a HTTP PUT request. If the upload is successful, a message is displayed indicating that the upload was successful. If the upload fails, a message is displayed indicating that the upload failed.
 
 
-screenshort
+# ***screenshorts***
+
+# Kali linux:
+
+![whitedeface](https://user-images.githubusercontent.com/118425907/221367054-c8fe2afa-c17f-425f-ab56-10db4217b9e3.png)
 
 
-![deface](https://user-images.githubusercontent.com/118425907/219857269-d324a3e8-90c5-46be-bef4-9493ad6808df.png)
+# Termux :
 
 
-
+![termux](https://user-images.githubusercontent.com/118425907/221367115-684ddd94-fcb3-4b6b-be79-4a0e889b5739.jpg)
