@@ -59,7 +59,7 @@ The code is a simple program in Python that attempts to upload a provided HTML f
 
 # Kali linux:
 
-![whitedeface](https://user-images.githubusercontent.com/118425907/221367054-c8fe2afa-c17f-425f-ab56-10db4217b9e3.png)
+![defacer](https://user-images.githubusercontent.com/118425907/221367161-b326ebb9-5b8f-4cbc-bb0a-30647848b98d.png)
 
 
 # Termux :
