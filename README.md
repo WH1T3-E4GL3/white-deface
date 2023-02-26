@@ -41,6 +41,7 @@ _______________________________________
     apt update -y && apt upgrade -y && pkg install git -y && pkg install python -y && pip2 install requests && git clone https://github.com/WH1T3-E4GL3/white-deface.git && cd white-deface && pip install -r requirements.txt && git pull && python white-deface.py
   
 Tutorial video : https://mega.nz/file/obgWGQJJ#Lk-JkEdFoIZVC07lpbRAFHRt3WayXDfPW27KuEDgCJE
+
 Tool used for vulnerable website defacing
 
 Tool devoloped by white eagle.
@@ -69,6 +70,4 @@ The code is a simple program in Python that attempts to upload a provided HTML f
 ![termux](https://user-images.githubusercontent.com/118425907/221367115-684ddd94-fcb3-4b6b-be79-4a0e889b5739.jpg)
 
 
-
-
-
+Tutorial video : https://mega.nz/file/obgWGQJJ#Lk-JkEdFoIZVC07lpbRAFHRt3WayXDfPW27KuEDgCJE
