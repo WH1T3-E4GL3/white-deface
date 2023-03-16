@@ -18,7 +18,7 @@ try:
 
 except ImportError:
 
-   exit("install requests and try again ...(pip install request")
+   exit("install requests and try again ...('pip install requests')
 
 os.system("git pull")
 
