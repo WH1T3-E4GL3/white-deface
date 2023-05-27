@@ -9,6 +9,8 @@
 # WHITE-DEFACE
 This is a simple tool to automatically deface vulnerable websites.
 
+(Tutorial video link at last of this page ⚠️)
+
 It uses WebDav vulnerability to exploit.
 This script sends a PUT requests to the websites given in the targets.txt file. Unauthenticated requests will be accepted and your html script will be uploaded in the website. You will get the link with your script whch you can see it. (sometimes it defaces the homepage directly.)
 
