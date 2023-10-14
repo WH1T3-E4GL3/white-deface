@@ -45,7 +45,7 @@ _______________________________________
 Tool used for vulnerable website defacing
 
 Tool devoloped by whxite
-Github   : https://github.com/WH1T3-E4GL3
+
 
 Telegram : https://t.me/Ka_KsHi_HaTaKe
 
