@@ -1,4 +1,8 @@
 #-*- coding: utf-8 -*-
+# Google dork possible: intitle:"Index of" intext:"webdav"
+#shodan: port:80,443 401 Authorization required "Server: Microsoft-IIS/7.5" "WWW-Authenticate: Basic realm=\"*\""
+#censys: 443.https.get.headers.server.raw:"Microsoft-IIS/7.5" and 200.http.get.headers.www_authenticate.q:"Basic realm=\"*\""
+
 try:
    import os
    import sys
