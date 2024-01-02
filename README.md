@@ -21,7 +21,9 @@ You need to put your website urls in the targets.txt file and put your deface sc
 
 ⚠️Only defaces websites with WebDAV vulnerability(Accepts unauthenticated PUT requests)⚠️
 
-Thank you [Ranginang67](@https://github.com/Ranginang67/AOXdeface) for your source code.
+Thank you [Ranginang67](https://github.com/Ranginang67/AOXdeface) for your source code.
+
+
 # Installation
 ____________________
 
