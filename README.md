@@ -1,4 +1,5 @@
-![deface](https://user-images.githubusercontent.com/118425907/221365125-c93c6c73-e1f7-46b3-8a5c-3a58f77d1387.jpg)
+![Blue Futuristic Technology Presentation](https://github.com/WH1T3-E4GL3/white-deface/assets/118425907/d68de67c-a078-4b99-921a-7c6beeb47b3c)
+
 
 
 ## Author
