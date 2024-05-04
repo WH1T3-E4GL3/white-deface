@@ -63,7 +63,7 @@ The code is a simple program in Python that attempts to upload a provided HTML f
 
 # ***screenshorts***
 
-![Blue Futuristic Technology Presentation](https://github.com/WH1T3-E4GL3/white-deface/assets/118425907/d68de67c-a078-4b99-921a-7c6beeb47b3c)
+![Screenshot_2024-05-04_09_56_39](https://github.com/WH1T3-E4GL3/white-deface/assets/118425907/352464cf-1b8a-4078-8222-0591b42d935d)
 
 
 
