@@ -63,15 +63,10 @@ The code is a simple program in Python that attempts to upload a provided HTML f
 
 # ***screenshorts***
 
-# Kali linux:
-
-![defacer](https://user-images.githubusercontent.com/118425907/221367161-b326ebb9-5b8f-4cbc-bb0a-30647848b98d.png)
+![Blue Futuristic Technology Presentation](https://github.com/WH1T3-E4GL3/white-deface/assets/118425907/d68de67c-a078-4b99-921a-7c6beeb47b3c)
 
 
-# Termux :
 
-
-![termux](https://user-images.githubusercontent.com/118425907/221367115-684ddd94-fcb3-4b6b-be79-4a0e889b5739.jpg)
 
 
 Tutorial video : https://mega.nz/file/obgWGQJJ#Lk-JkEdFoIZVC07lpbRAFHRt3WayXDfPW27KuEDgCJE
